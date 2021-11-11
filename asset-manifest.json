@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Web/static/css/main.1def590c.chunk.css",
+    "main.js": "/Web/static/js/main.66475cc2.chunk.js",
+    "main.js.map": "/Web/static/js/main.66475cc2.chunk.js.map",
+    "runtime-main.js": "/Web/static/js/runtime-main.7cfe1eff.js",
+    "runtime-main.js.map": "/Web/static/js/runtime-main.7cfe1eff.js.map",
+    "static/css/2.46925b27.chunk.css": "/Web/static/css/2.46925b27.chunk.css",
+    "static/js/2.acaca75e.chunk.js": "/Web/static/js/2.acaca75e.chunk.js",
+    "static/js/2.acaca75e.chunk.js.map": "/Web/static/js/2.acaca75e.chunk.js.map",
+    "static/js/3.8baaebfd.chunk.js": "/Web/static/js/3.8baaebfd.chunk.js",
+    "static/js/3.8baaebfd.chunk.js.map": "/Web/static/js/3.8baaebfd.chunk.js.map",
+    "index.html": "/Web/index.html",
+    "static/css/2.46925b27.chunk.css.map": "/Web/static/css/2.46925b27.chunk.css.map",
+    "static/css/main.1def590c.chunk.css.map": "/Web/static/css/main.1def590c.chunk.css.map",
+    "static/js/2.acaca75e.chunk.js.LICENSE.txt": "/Web/static/js/2.acaca75e.chunk.js.LICENSE.txt",
+    "static/media/_banner.scss": "/Web/static/media/RohedCrop.7058242d.jpeg",
+    "static/media/Tea.909e70cc.png": "/Web/static/media/Tea.909e70cc.png",
+    "static/media/ecommerce.3333d48c.png": "/Web/static/media/ecommerce.3333d48c.png",
+    "static/media/examhint.2bad99f7.png": "/Web/static/media/examhint.2bad99f7.png",
+    "static/media/fininn.f67f642a.png": "/Web/static/media/fininn.f67f642a.png",
+    "static/media/medium1.242dafcb.png": "/Web/static/media/medium1.242dafcb.png",
+    "static/media/medium2.3bbe77aa.png": "/Web/static/media/medium2.3bbe77aa.png",
+    "static/media/medium3.1182faa5.png": "/Web/static/media/medium3.1182faa5.png",
+    "static/media/memory.82749dfd.png": "/Web/static/media/memory.82749dfd.png",
+    "static/media/newsapp.dded8c6e.png": "/Web/static/media/newsapp.dded8c6e.png",
+    "static/media/plack.bbcca3ff.png": "/Web/static/media/plack.bbcca3ff.png",
+    "static/media/resumemaker.ce52a729.png": "/Web/static/media/resumemaker.ce52a729.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cfe1eff.js",
+    "static/css/2.46925b27.chunk.css",
+    "static/js/2.acaca75e.chunk.js",
+    "static/css/main.1def590c.chunk.css",
+    "static/js/main.66475cc2.chunk.js"
+  ]
+}
